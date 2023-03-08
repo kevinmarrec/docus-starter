@@ -1,1 +1,0 @@
-/* empty css                       */import{b as t,o as a,e as o,j as r,r as s}from"./entry.a15c51fb.js";const c={},n={class:"table-wrapper"};function _(e,d){return a(),o("div",n,[r("table",null,[s(e.$slots,"default",{},void 0,!0)])])}const p=t(c,[["render",_],["__scopeId","data-v-ecbbc6af"]]);export{p as default};
